@@ -1,5 +1,5 @@
 <?php
-namespace PoP\Meta;
+namespace PoPSchema\Meta;
 
 class Initialization
 {

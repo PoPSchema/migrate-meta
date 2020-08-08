@@ -1,5 +1,5 @@
 <?php
-namespace PoP\Meta;
+namespace PoPSchema\Meta;
 use PoP\Translation\Facades\TranslationAPIFacade;
 use PoP\Hooks\Facades\HooksAPIFacade;
 

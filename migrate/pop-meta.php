@@ -6,7 +6,7 @@ Description: The foundation for a PoP Meta
 Plugin URI: https://getpop.org/
 Author: Leonardo Losoviz
 */
-namespace PoP\Meta;
+namespace PoPSchema\Meta;
 use PoP\Hooks\Facades\HooksAPIFacade;
 
 //-------------------------------------------------------------------------------------
